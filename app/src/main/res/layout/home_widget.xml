@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/StockWidget"
+    >
+ <TextView
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="@string/widget_header"
+     android:textColor="@color/white_background"
+     android:background="@color/text_background"
+     android:textSize="30sp"
+     android:textStyle="bold"
+     android:gravity="center"
+     android:padding="5dp"
+     />
+    <ListView
+        android:id="@+id/WidgetStocks_List"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="9dp"
+        />
+</LinearLayout>

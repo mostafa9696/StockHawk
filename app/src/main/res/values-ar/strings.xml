@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_title">إضافة سهم</string>
+    <string name="dialog_hint">الرمز (على سبيل المثال GOOG)</string>
+    <string name="dialog_cancel">إلغاء</string>
+    <string name="dialog_add">اضافة</string>
+    <string name="toast_stock_added_no_connectivity">تم اضافه سهم جديد سيتم التحديث عند الاتصال بالنترنت</string>
+    <string name="toast_no_connectivity">سيتم التحديث عند الاتصال بالانترنت</string>
+    <string name="add_symbol_descryption">إضافة سهم</string>
+    <string name="widget_no_data">لا يوجد اسهم ! </string>
+    <string name="error_no_network">لا يوجد اتصال بالشبكه, سيتم تحميل مؤشر الأسهم عندما تكون الشبكة متاحة.</string>
+    <string name="error_no_stocks">لم يتم إضافة أي أسهم! اضغط الزر بالاسفل لاضافه سهم.</string>
+    <string name="widget_header">الاسهم اليوم.</string>
+    <string name="InvalidStockInput">ادخل اسم سهم صحيح</string>
+    <string name="validStockInput">تم اضافه السهم بنجاح</string>
+    <string name="stock_graph">الرسم البيانى للسهم</string>
+    <string name="stock_details">تفاصيل السهم</string>
+</resources>
